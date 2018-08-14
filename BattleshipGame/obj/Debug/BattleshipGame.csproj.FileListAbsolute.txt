@@ -1,0 +1,22 @@
+D:\projects\C#\BattleshipGame\BattleshipGame\bin\Debug\BattleshipGame.exe.config
+D:\projects\C#\BattleshipGame\BattleshipGame\bin\Debug\BattleshipGame.exe
+D:\projects\C#\BattleshipGame\BattleshipGame\bin\Debug\BattleshipGame.pdb
+D:\projects\C#\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.csprojResolveAssemblyReference.cache
+D:\projects\C#\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.MainForm.resources
+D:\projects\C#\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.Properties.Resources.resources
+D:\projects\C#\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.csproj.GenerateResource.Cache
+D:\projects\C#\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.csproj.CoreCompileInputs.cache
+D:\projects\C#\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.exe
+D:\projects\C#\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.pdb
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\bin\Debug\BattleshipGame.exe.config
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.exe
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.pdb
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\bin\Debug\BattleshipGame.exe
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\bin\Debug\BattleshipGame.pdb
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\bin\Debug\System.Net.Http.dll
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\bin\Debug\System.Net.Http.xml
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.csprojResolveAssemblyReference.cache
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.MainForm.resources
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.Properties.Resources.resources
+C:\Users\roman\Downloads\морской бой\BattleshipGame\BattleshipGame\obj\Debug\BattleshipGame.csproj.GenerateResource.Cache
